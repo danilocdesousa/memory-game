@@ -1,3 +1,6 @@
+// Start of use strict
+'use strict';
+
 let listOpenCards = [];
 
 let timeID;

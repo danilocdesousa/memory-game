@@ -1,6 +1,6 @@
-#Projeto Jogo da Memória
+# Projeto Jogo da Memória
 
-##Como funciona
+## Como funciona
 
 Caso você não esteja familiarizado com o jogo, as regras são muito simples: haverá uma série de cartas viradas para baixo, e o jogador deve virar duas dessas cartas para cima para localizar aquelas que combinam entre si!
 

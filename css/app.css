@@ -89,7 +89,7 @@ h1 {
     background-color: #fff;
     margin: 15% auto;
     padding: 20px;
-    width: 50%;
+    width: 40%;
     text-align: center;
   }
 
@@ -153,3 +153,7 @@ h1 {
 .timer {
     margin-left: 5px;
 }
+
+.display-none {
+    display: none;
+  }
